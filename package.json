@@ -1,0 +1,24 @@
+{
+  "name": "web-crawler-http",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Isaac0099/web-crawler-http#readme",
+  "bugs": {
+    "url": "https://github.com/Isaac0099/web-crawler-http/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isaac0099/web-crawler-http.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
